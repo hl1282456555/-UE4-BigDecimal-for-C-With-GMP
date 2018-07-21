@@ -1,4 +1,4 @@
-# -UE4-BigDecimal-for-C-With-GMP
+# -UE4-BigDecimal-for-C++-With-GMP
 A plugin of bigdecimal for c++ with GMP.
 
 C + + high precision floating point computing library based on GMP for windows package on GitHub.
